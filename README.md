@@ -1,3 +1,5 @@
+https://github.com/leo-pfeiffer/pagerank.js/actions/workflows/tests.yml/badge.svg
+
 # PageRank implementation in JavaScript
 
 JavaScript implementation of the PageRank Algorithm that was originally invented by Sergej Brin and Larry Page,
