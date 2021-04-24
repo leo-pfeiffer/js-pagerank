@@ -1,4 +1,4 @@
-https://github.com/leo-pfeiffer/pagerank.js/actions/workflows/tests.yml/badge.svg
+![test workflow](https://github.com/leo-pfeiffer/pagerank.js/actions/workflows/tests.yml/badge.svg)
 
 # PageRank implementation in JavaScript
 
