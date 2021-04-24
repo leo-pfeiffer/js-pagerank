@@ -5,6 +5,13 @@ the founders of Google, and built the original basis for their world famous sear
 
 This implementation uses the power method to determine the rankings.
 
+
+## Usage
+todo...
+
+
+## Background
+
 You can read more about PageRank in the original paper by Brin and Page,
 
 >Brin, S., Page, L., 1998. The Anatomy of a Large-Scale Hypertextual Web Search Engine. The Seventh International World Wide Web Conference, 14.-18. April 1998, S. 107-117
