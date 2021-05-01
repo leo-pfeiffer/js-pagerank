@@ -1,5 +1,5 @@
 {
-  "name": "pagerank.js",
+  "name": "js-pagerank",
   "version": "1.0.0",
   "description": "JavaScript implementation of the PageRank algorithm",
   "main": "./lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leo-pfeiffer/pagerank.js.git"
+    "url": "git+https://github.com/leo-pfeiffer/js-pagerank.git"
   },
   "keywords": [
     "pagerank"
@@ -20,9 +20,9 @@
   "author": "leo-pfeiffer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leo-pfeiffer/pagerank.js/issues"
+    "url": "https://github.com/leo-pfeiffer/js-pagerank/issues"
   },
-  "homepage": "https://github.com/leo-pfeiffer/pagerank.js#readme",
+  "homepage": "https://github.com/leo-pfeiffer/js-pagerank#readme",
   "dependencies": {
     "chai": "^4.3.4",
     "mathjs": "^9.3.2"
